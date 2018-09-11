@@ -1,0 +1,5 @@
+# CMS
+### Koa -- 基于 Node.js 平台的下一代 web 开发框架
+
+### 开发 Koa2 之前，Node.js 是有要求的，它要求 Node.js 版本高于 V7.6。因为 node.js 7.6 版本
+开始完全支持 async/await，所以才能完全你支持我们的 Koa2。
